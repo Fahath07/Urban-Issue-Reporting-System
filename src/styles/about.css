@@ -1,0 +1,25 @@
+.about-page {
+  min-height: calc(100vh - 200px);
+}
+
+.about-container {
+  padding-top: 2rem;
+}
+
+.about-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.about-features {
+  margin-top: 2rem;
+}
+
+.about-feature-card {
+  text-align: center;
+}
+
+.about-feature-title {
+  color: #2872A1;
+}
